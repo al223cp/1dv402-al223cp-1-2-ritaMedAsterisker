@@ -1,0 +1,5 @@
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-2-ritaMedAsterisker\1DV402.S1.L02A\bin\Debug\1DV402.S1.L02A.exe.config
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-2-ritaMedAsterisker\1DV402.S1.L02A\bin\Debug\1DV402.S1.L02A.exe
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-2-ritaMedAsterisker\1DV402.S1.L02A\bin\Debug\1DV402.S1.L02A.pdb
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-2-ritaMedAsterisker\1DV402.S1.L02A\obj\Debug\1DV402.S1.L02A.exe
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-2-ritaMedAsterisker\1DV402.S1.L02A\obj\Debug\1DV402.S1.L02A.pdb
